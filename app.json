@@ -1,0 +1,15 @@
+{
+  "name": "sppunanmanagua",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
